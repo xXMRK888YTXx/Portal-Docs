@@ -1,4 +1,4 @@
-**Effective Date: April 6, 2026**
+**Effective Date: April 10, 2026**
 
 These terms and conditions apply to the **Portal** app (hereby referred to as the "Application") for mobile devices, created by **Artem Aksenchikov**, operating under the pseudonym **xXMRK888YTXx** (hereby referred to as the "Service Provider"). 
 
@@ -38,8 +38,8 @@ The Service Provider makes no representations or guarantees regarding the perfor
 
 The Service Provider may update the Application to ensure compatibility with new operating systems. You agree to accept these updates. The Service Provider also reserves the right to cease providing the Application or terminate its development at any time without prior notice.
 
-### 7. Governing Law
-These Terms and Conditions, and any disputes arising from or relating to the use of the Application, are governed by and construed in accordance with the **laws of the Republic of Belarus**.
+### 7. Governing Law and Jurisdiction
+These Terms and Conditions, and any disputes arising from or relating to the use of the Application, are governed by and construed in accordance with the laws of the **Republic of Belarus**. Any legal action or proceeding arising out of or in connection with these Terms shall be brought exclusively in the courts of **Minsk, Republic of Belarus**, and you hereby consent to the personal jurisdiction and venue of such courts.
 
 ### 8. Indemnification
 You agree to indemnify, defend, and hold harmless the Service Provider from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) that arise from your use or misuse of the Application, your violation of these Terms and Conditions, or your violation of any laws or rights of a third party.
